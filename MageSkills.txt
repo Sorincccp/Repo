@@ -1,0 +1,30 @@
+"Skill":[
+{
+"name":"Magic Missile",
+"mpcost":"50",
+"addeddmg":"20",
+"unlocklvl":"2",
+"skilllvl":"1",
+},
+{
+"name":"Fire Ball",
+"mpcost":"25",
+"addeddmg":"35",
+"unlocklvl":"3",
+"skilllvl":"1",
+},
+{
+"name":"Prominence",
+"mpcost":"40",
+"addeddmg":"40",
+"unlocklvl":"4",
+"skilllvl":"1",
+},
+{
+"name":"Death Spike",
+"mpcost":"12",
+"addeddmg":"60",
+"unlocklvl":"5",
+"skilllvl":"1",
+},
+]

@@ -1,0 +1,31 @@
+"Skill":[
+{
+"name":"Power Strike",
+"mpcost":"50",
+"addeddmg":"20",
+"unlocklvl":"2",
+"skilllvl":"1",
+
+},
+{
+"name":"Sonic Boom",
+"mpcost":"25",
+"addeddmg":"35",
+"unlocklvl":"3",
+"skilllvl":"1",
+},
+{
+"name":"Bash",
+"mpcost":"40",
+"addeddmg":"40",
+"unlocklvl":"4",
+"skilllvl":"1",
+},
+{
+"name":"Fatal  Blow",
+"mpcost":"12",
+"addeddmg":"60",
+"unlocklvl":"5",
+"skilllvl":"1",
+},
+]

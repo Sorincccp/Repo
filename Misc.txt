@@ -1,0 +1,20 @@
+"Misc":[
+{
+"name":"Health potion",
+"quantity":"",
+"type":"potion",
+"effect":"hp",
+"amount":"25" ,
+"value":"25",
+},
+{
+"name":"Mana potion",
+"quantity":"",
+"type":"potion",
+"effect":"mp",
+"amount":"25", 
+"value":"25",
+}
+,
+
+]

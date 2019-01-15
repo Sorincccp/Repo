@@ -1,0 +1,37 @@
+[
+{
+"name":"Giant rat",
+"hp":"100",
+"damage":"3",
+"xpdrop":"10",
+"drop":"Rat teeth"
+},
+{
+"name":"Bloody Leech",
+"hp":"45",
+"damage":"5",
+"xpdrop":"10",
+"drop":"Leech Blood"
+},
+{
+"name":"Talon Spider",
+"hp":"60",
+"damage":"2",
+"xpdrop":"10",
+"drop":"Venomous Sack"
+},
+{
+"name":"Elpy",
+"hp":"20",
+"damage":"1",
+"xpdrop":"10",
+"drop":"Elpy Tail"
+},
+{
+"name":"Holy Cow",
+"hp":"150",
+"damage":"11",
+"xpdrop":"25",
+"drop":"Holy Leather"
+}
+]
